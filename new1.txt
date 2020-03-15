@@ -1,0 +1,9 @@
+Technologie qui active des services basés sur Internet qui permettent de
+s'inscrire et de se connecter en utilisant un navigateur. Salesforce livre son
+Cloud Computing
+service dans le nuage. Google Apps et Amazon.com sont d'autres services
+de cloud computing connus.
+
+
+handles version control
+https://github.com/hsou/bestrepoever.git
